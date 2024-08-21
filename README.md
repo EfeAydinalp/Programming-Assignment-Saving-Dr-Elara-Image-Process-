@@ -32,11 +32,11 @@ Detects edges in an image by calculating the gradient magnitude and applying a t
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/EfeAydinalp/SavingDrElara-ImageProcess
 
 2. Navigate to the project directory:
  ```sh
-   cd your-repo-name
+   cd SavingDrElara-ImageProcess
 ```
 3. Compile the code using a C++ compiler:
  ```sh
